@@ -1,0 +1,2 @@
+,index_x,id,track,artist,match,index_y,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,uri,track_href,analysis_url,duration_ms,time_signature
+0,0,2IKAstEOxlP41OKC8OhcUM,08 Wake up,Melojustice,0,0,0.631,0.303,4,-11.818,0,0.0309,0.556,9.6e-05,0.125,0.187,107.227,audio_features,spotify:track:2IKAstEOxlP41OKC8OhcUM,https://api.spotify.com/v1/tracks/2IKAstEOxlP41OKC8OhcUM,https://api.spotify.com/v1/audio-analysis/2IKAstEOxlP41OKC8OhcUM,273573,4
