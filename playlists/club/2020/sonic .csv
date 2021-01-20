@@ -1,0 +1,2 @@
+,index_x,id,track,artist,match,index_y,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,uri,track_href,analysis_url,duration_ms,time_signature
+0,0,4UP74wJR13vPJcIhQIKPy4,Finest Hour (feat. Abir) - MOTi Remix,Cash Cash/ABIR/MOTi,1,0,0.671,0.741,5,-3.605,0,0.0596,0.0435,0,0.501,0.418,127.801,audio_features,spotify:track:4UP74wJR13vPJcIhQIKPy4,https://api.spotify.com/v1/tracks/4UP74wJR13vPJcIhQIKPy4,https://api.spotify.com/v1/audio-analysis/4UP74wJR13vPJcIhQIKPy4,188000,4
